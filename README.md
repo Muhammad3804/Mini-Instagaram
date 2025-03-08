@@ -23,6 +23,7 @@
 ```
 MiniInstagram/
 │── MiniInstagram.cpp   # Main source code
+│── assets              # Screenshots of project
 │── README.md           # Project documentation
 ```
 
