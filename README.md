@@ -28,9 +28,9 @@ MiniInstagram/
 
 ## 🚀 How to Run
 
-### **Windows (MinGW/Visual Studio)**
+### **Windows (Visual Studio)**
 
-1. Install a C++ compiler (MinGW or Visual Studio).
+1. Install a C++ compiler (like Visual Studio).
 2. Open the terminal and run:
    ```sh
    g++ MiniInstagram.cpp -o MiniInstagram.exe -std=c++11
